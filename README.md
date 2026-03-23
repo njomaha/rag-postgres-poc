@@ -49,7 +49,8 @@ rag-postgres-poc/
 ├── requirements.txt      # Dependencies
 ├── .gitignore            # Ignore sensitive & temp files
 ├── .env.example          # Sample environment variables
-└── README.md
+└── README.md  ## 🏗️ Architecture Diagram
+![RAG Architecture](images/architecture.png)
 ```
 
 ---
